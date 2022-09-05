@@ -1,0 +1,2 @@
+CV=Computer Vision,
+HPE= Human Pose Estimation
