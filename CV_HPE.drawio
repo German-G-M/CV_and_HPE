@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T01:45:56.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QkuMJI9sy2Fp8dGVH-7u" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T05:14:13.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jpqJRgyOYUk4MsA1t5dl" version="20.2.8" type="github">
   <diagram id="XKYyDF1kEyhhGhjMbOKg" name="Página-1">
-    <mxGraphModel dx="1920" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,11 +157,11 @@
         <mxCell id="1Di375NGL0yQk-hCG-On-74" value="LBP59, Haralick_d2, Haralick_d3, Gabor8x8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="440" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1Di375NGL0yQk-hCG-On-77" value="&lt;h1&gt;Abreviaciones&lt;/h1&gt;&lt;div&gt;SFS (Sequetial Feature Selection)&lt;/div&gt;&lt;div&gt;RFECV (Recursive Feature Elimination with Cross Validation)&lt;/div&gt;&lt;div&gt;RFE (Recursive Feature Elimination)&lt;/div&gt;&lt;div&gt;LGBMC&lt;/div&gt;&lt;div&gt;SAD (Spatiotemporal Action Detection)&lt;/div&gt;&lt;div&gt;ASAD (Actor-Identified Spatiotemporal Action Detection)&lt;/div&gt;&lt;div&gt;AR (Action Recognition)&lt;/div&gt;&lt;div&gt;TAD (Temporal Action Detection)&lt;/div&gt;&lt;div&gt;MOD (Multiple Object Tracking)&lt;/div&gt;&lt;div&gt;AC (Action Clasification)&lt;/div&gt;&lt;div&gt;LSTM (Long Short-Term Memory)&lt;/div&gt;&lt;div&gt;TCN (Temporal Convolucional Network&lt;/div&gt;&lt;div&gt;TDNN (Time Delay Neural Network)&lt;/div&gt;&lt;div&gt;LRCN (Long Term Recurrent Convolutional Netework)&lt;/div&gt;&lt;div&gt;MLP (Multi Layer Perceptron)&lt;/div&gt;&lt;div&gt;CNN (Convolucional Neural Network)&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;R-%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bul%26gt%3B%26lt%3Bli%26gt%3BValue%201%26lt%3B%2Fli%26gt%3B%26lt%3Bli%26gt%3BValue%202%26lt%3B%2Fli%26gt%3B%26lt%3Bli%26gt%3BValue%203%26lt%3B%2Fli%26gt%3B%26lt%3B%2Ful%26gt%3B%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BverticalAlign%3Dmiddle%3Boverflow%3Dhidden%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-150%22%20y%3D%22140%22%20width%3D%22100%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1Di375NGL0yQk-hCG-On-77" value="&lt;h1&gt;Abreviaciones&lt;/h1&gt;&lt;div&gt;SFS (Sequetial Feature Selection)&lt;/div&gt;&lt;div&gt;RFECV (Recursive Feature Elimination with Cross Validation)&lt;/div&gt;&lt;div&gt;RFE (Recursive Feature Elimination)&lt;/div&gt;&lt;div&gt;LGBMC&lt;/div&gt;&lt;div&gt;SAD (Spatiotemporal Action Detection)&lt;/div&gt;&lt;div&gt;ASAD (Actor-Identified Spatiotemporal Action Detection)&lt;/div&gt;&lt;div&gt;AR (Action Recognition)&lt;/div&gt;&lt;div&gt;TAD (Temporal Action Detection)&lt;/div&gt;&lt;div&gt;MOD (Multiple Object Tracking)&lt;/div&gt;&lt;div&gt;AC (Action Clasification)&lt;/div&gt;&lt;div&gt;LSTM (Long Short-Term Memory)&lt;/div&gt;&lt;div&gt;TCN (Temporal Convolucional Network&lt;/div&gt;&lt;div&gt;TDNN (Time Delay Neural Network)&lt;/div&gt;&lt;div&gt;LRCN (Long Term Recurrent Convolutional Netework)&lt;/div&gt;&lt;div&gt;MLP (Multi Layer Perceptron)&lt;/div&gt;&lt;div&gt;CNN (Convolucional Neural Network)&lt;/div&gt;&lt;div&gt;FNMR (False Non-Match Rate) [rostros de la misma persona pero clasificada como diferentes]&lt;/div&gt;&lt;div&gt;FMR (False Match Rate) [Rostros de distintas personas pero clasificadas como iguales&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;R-%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bul%26gt%3B%26lt%3Bli%26gt%3BValue%201%26lt%3B%2Fli%26gt%3B%26lt%3Bli%26gt%3BValue%202%26lt%3B%2Fli%26gt%3B%26lt%3Bli%26gt%3BValue%203%26lt%3B%2Fli%26gt%3B%26lt%3B%2Ful%26gt%3B%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BverticalAlign%3Dmiddle%3Boverflow%3Dhidden%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-150%22%20y%3D%22140%22%20width%3D%22100%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="238" width="490" height="332" as="geometry" />
         </mxCell>
-        <mxCell id="1Di375NGL0yQk-hCG-On-79" value="&lt;h1&gt;Conceptos&lt;/h1&gt;&lt;p&gt;Matriz de confusión:&lt;/p&gt;&lt;p&gt;Reconocimiento de Patrones:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Validación cruzada&lt;/b&gt;: Utiliza distintas porciones de los datos para probar y entrenar un modelo en distintas iteraciones.&lt;/p&gt;&lt;p&gt;&lt;b&gt;FaceMesh&lt;/b&gt;: MediaPipe. Para procesamiento de imagenes&lt;/p&gt;&lt;p&gt;&lt;b&gt;Explicabilidad&lt;/b&gt;: lo que está pasando dentro de una caja negra. Saber porqué arroja lo que arroja. Da la respuesta a la pregunta: ¿Porqué la imagen fue clasificada como &quot;lobo&quot;? Y nos debe mostrara que fue lo más importante que se tomo de la imagen para ser clasificada como &quot;lobo&quot;. XAI (Explainable AI) tiene como objeto crear un conjunto de tecnicas de machie learning que 1) produzcan modelos más explicables y 2) permitan a los usuarios humanos comprender, confiar adecuadamente la nueva geeración de soscios artificialmente inteligentes.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Porqué explicar? 1) si entendemos cómo funciona un algoritmo podremos mejorarlo, controlarlo y descubrir nuevo conocimiento. 2) Cuando hay temas legales o éticos es necesaria una justificación del porqué de una decisión. 3) de esta manera generamos confianza.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Action Recognition&lt;/b&gt;: (reconocimiento de acciones)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Multiple Object Tracking&lt;/b&gt;: Seguimiento de multiples objetos&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vision Based Action Recognition&lt;/b&gt;: Reconocimiento de acción basado en visión&lt;/p&gt;&lt;p&gt;&lt;b&gt;Video Action Recognition&lt;/b&gt;: puede ser grandemente dividido en 4 categorías: 1) AR, 2) TAD, 3) SAD, 4) ASAD&lt;/p&gt;&lt;p&gt;&lt;b&gt;Human Parsing&lt;/b&gt;: Es aquella tarea que realiza la segmentación de una imagen humana en diferentes partes bien definidas como la cabeza, el torso, los brazos y las piernas&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Caja Negra&lt;/b&gt;: Cuando por ejemplo adquirirmos un software entrenado y no tenemos acceso a lo que hace el software, sino solamente a las salidas a partir de datos de entrada&lt;/p&gt;&lt;p&gt;&lt;b&gt;Image classifier&lt;/b&gt;: Clasificador de imágenes&lt;/p&gt;&lt;p&gt;&lt;b&gt;Video Classifier&lt;/b&gt;: clasificador de Videos&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="460" width="420" height="690" as="geometry" />
+        <mxCell id="1Di375NGL0yQk-hCG-On-79" value="&lt;h1&gt;Conceptos&lt;/h1&gt;&lt;p&gt;Matriz de confusión:&lt;/p&gt;&lt;p&gt;Reconocimiento de Patrones:&lt;/p&gt;&lt;p&gt;&lt;b&gt;Validación cruzada&lt;/b&gt;: Utiliza distintas porciones de los datos para probar y entrenar un modelo en distintas iteraciones.&lt;/p&gt;&lt;p&gt;&lt;b&gt;FaceMesh&lt;/b&gt;: MediaPipe. Para procesamiento de imagenes&lt;/p&gt;&lt;p&gt;&lt;b&gt;Explicabilidad&lt;/b&gt;: lo que está pasando dentro de una caja negra. Saber porqué arroja lo que arroja. Da la respuesta a la pregunta: ¿Porqué la imagen fue clasificada como &quot;lobo&quot;? Y nos debe mostrara que fue lo más importante que se tomo de la imagen para ser clasificada como &quot;lobo&quot;. XAI (Explainable AI) tiene como objeto crear un conjunto de tecnicas de machie learning que 1) produzcan modelos más explicables y 2) permitan a los usuarios humanos comprender, confiar adecuadamente la nueva geeración de soscios artificialmente inteligentes.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Porqué explicar? 1) si entendemos cómo funciona un algoritmo podremos mejorarlo, controlarlo y descubrir nuevo conocimiento. 2) Cuando hay temas legales o éticos es necesaria una justificación del porqué de una decisión. 3) de esta manera generamos confianza.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Action Recognition&lt;/b&gt;: (reconocimiento de acciones)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Multiple Object Tracking&lt;/b&gt;: Seguimiento de multiples objetos&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vision Based Action Recognition&lt;/b&gt;: Reconocimiento de acción basado en visión&lt;/p&gt;&lt;p&gt;&lt;b&gt;Video Action Recognition&lt;/b&gt;: puede ser grandemente dividido en 4 categorías: 1) AR, 2) TAD, 3) SAD, 4) ASAD&lt;/p&gt;&lt;p&gt;&lt;b&gt;Human Parsing&lt;/b&gt;: Es aquella tarea que realiza la segmentación de una imagen humana en diferentes partes bien definidas como la cabeza, el torso, los brazos y las piernas&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Caja Negra&lt;/b&gt;: Cuando por ejemplo adquirirmos un software entrenado y no tenemos acceso a lo que hace el software, sino solamente a las salidas a partir de datos de entrada&lt;/p&gt;&lt;p&gt;&lt;b&gt;Image classifier&lt;/b&gt;: Clasificador de imágenes&lt;/p&gt;&lt;p&gt;&lt;b&gt;Video Classifier&lt;/b&gt;: clasificador de Videos&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bias&lt;/b&gt;: sesgo&lt;/p&gt;&lt;p&gt;&lt;b&gt;Fairness&lt;/b&gt;: imparcialdad, justicia&lt;/p&gt;&lt;p&gt;&lt;b&gt;Mitigation&lt;/b&gt;: mitigación&lt;/p&gt;&lt;p&gt;&lt;b&gt;Facial Matcher&lt;/b&gt;: Comparador de rostros&lt;/p&gt;&lt;p&gt;&lt;b&gt;Face Verification&lt;/b&gt;: Verificación de rostros&lt;/p&gt;&lt;p&gt;&lt;b&gt;Threshold&lt;/b&gt;: umbral&lt;/p&gt;&lt;p&gt;&lt;b&gt;Clustering&lt;/b&gt;: Agrupación por similitudes&lt;/p&gt;&lt;p&gt;&lt;b&gt;Watershed&lt;/b&gt;: línea divisoria de agua (para segmentación de imágenes)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="240" width="420" height="890" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-82" value="NORMALIZACIÓN / CLEANING" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="820" width="120" height="60" as="geometry" />
@@ -169,8 +169,8 @@
         <mxCell id="1Di375NGL0yQk-hCG-On-83" value="VALIDATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="831.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Di375NGL0yQk-hCG-On-84" value="&lt;h1&gt;DataSets&lt;/h1&gt;&lt;p&gt;ImageNet&lt;/p&gt;&lt;p&gt;AVA&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="190" height="120" as="geometry" />
+        <mxCell id="1Di375NGL0yQk-hCG-On-84" value="&lt;h1&gt;DataSets&lt;/h1&gt;&lt;p&gt;ImageNet&lt;/p&gt;&lt;p&gt;AVA&lt;/p&gt;&lt;p&gt;De reconocimiento facial: LFWA, CelebA, COCO, IMDB-WIKI, VGG2, DiF, UTK FairFace. [https://www.youtube.com/watch?v=uM1pXE2JDUA]&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="190" height="290" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-85" target="1Di375NGL0yQk-hCG-On-89">
           <mxGeometry relative="1" as="geometry" />
@@ -206,9 +206,12 @@
           <mxGeometry x="980" y="630" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-99" value="Algoritmo REMOVAL, algoritmo AGREGATION (Es un trabajo del Profesor Domingo Mery):&amp;nbsp;On Black-Box Explanation for Face Verification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="630" width="380" height="80" as="geometry" />
+          <mxGeometry x="1210" y="630" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-101" target="1Di375NGL0yQk-hCG-On-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-101" target="1Di375NGL0yQk-hCG-On-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-101" value="FACE VERIFICATION ALGORITHMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -216,6 +219,63 @@
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-102" value="ArcFace, Dlib, VGGface2, CasiaWebFace, LBP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1222.64" y="734.37" width="260" height="35.63" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-104" target="1Di375NGL0yQk-hCG-On-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-104" value="SISTEMAS DE COLOR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="846.88" width="150" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-105" value="RGB, HSV, XYZ, LaB&lt;br&gt;Se usa el LaB para control de calidad&lt;br&gt;del color de los productos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="851.25" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-107" value="Lo que hacen estos algoritmos son comparar 2 imagenes y verificar si corresponden a la misma persona o no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="784.37" width="260" height="35.63" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-109" target="1Di375NGL0yQk-hCG-On-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-109" value="METRICS IN FACIAL VERIFICATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="920" width="210" height="33.12" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-110" value="FNMR, FMR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-112" target="1Di375NGL0yQk-hCG-On-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-112" value="PROCESAMIENTO DE IMAGENES&lt;br&gt;(SEGMENTACIÓN DE IMAGENES A COLOR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1040" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-113" value="Existen 3 métodos fundamentales de segmentación:&lt;br&gt;1. Por canal de color (se descompone en RGB)&lt;br&gt;2. Adaptivo por umbrales (Descomponemos a RGB, convertimos a gris de forma adaptiva [HCI=High Contrast Image] , Segmentación por&amp;nbsp; OTSU)&lt;br&gt;3. Clustering (agrupa por similitud)[pixeles que tengan caracteristicas similares]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1222.64" y="1010" width="327.36" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-115" target="1Di375NGL0yQk-hCG-On-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-115" value="PROCESAMIENTO DE IMÁGENES&lt;br&gt;(Segmentación por watershed)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1170" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-116" target="1Di375NGL0yQk-hCG-On-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-116" value="PROCESAMIENTO DE VIDEOS&lt;br&gt;(Segmentación de videos, segmentación por movimiento)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1420" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-117" value="La escala de grises es como valles y montañas y empezamos a hechar lluvia (agua) esta genera lagos en los valles. Para que el agua de los valles no se mezcle utilizamos segmentación (muro) para evitar que se junten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1160" width="327.36" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Di375NGL0yQk-hCG-On-119" target="1Di375NGL0yQk-hCG-On-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-119" value="PROCESAMIENTO DE IMÁGENES&lt;br&gt;(Segmentación con Máscaras)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1250" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-120" value="Filtros con máscara.&lt;br&gt;se puede usar para detección de cabezas, detección de monedas (la máscara es un círculo)&lt;br&gt;pasos: 1) definir máscara, 2) convolución [entrega máximos], 3) umbral, 4) Post Procesamiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1250" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Di375NGL0yQk-hCG-On-122" value="Cómo hacerlo y en qué casos se recomienda la segmentación de videos.&lt;br&gt;DETECCIÓN DE OBJETOS EN VIDEO&lt;br&gt;Resta: se resta el frame al primer video(X&lt;sub&gt;t&lt;/sub&gt;-X&lt;sub&gt;0&lt;/sub&gt;)&lt;br&gt;, o tambien se puede restar al frame inmediato anterior (X&lt;sub&gt;t&lt;/sub&gt;-X&lt;sub&gt;t-1&lt;/sub&gt;)&lt;br&gt;&amp;nbsp;, o al frame anterior # 10 (X&lt;sub&gt;t&lt;/sub&gt;-X&lt;sub&gt;t-10&lt;/sub&gt;)&lt;br&gt;&lt;br&gt;Se puede poner un cuadradito rojo para la visualización de la segmentación (la visulaización es muy importante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1228.68" y="1370" width="370" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
