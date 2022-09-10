@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T00:53:09.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HD_Q3RUKJ26qvxjGBVR6" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T03:44:19.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9Z4pqWZuo-m1hYWnMkE-" version="20.3.0" type="github">
   <diagram id="XKYyDF1kEyhhGhjMbOKg" name="Página-1">
-    <mxGraphModel dx="6017" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7747" dy="3807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1Di375NGL0yQk-hCG-On-1" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;COMPUTER VISION (CV) AND HUMAN POSE ESTIMATION (HPE)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="25" y="40" width="460" as="geometry" />
         </mxCell>
-        <mxCell id="1Di375NGL0yQk-hCG-On-2" value="&lt;h1&gt;&lt;font color=&quot;#ff9933&quot;&gt;CV, HPE, HAR&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ff9933&quot;&gt;Todo sobre visión por computadora y estimación de postura humana y Reconocimiento de acción humana&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="100" width="240" height="120" as="geometry" />
+        <mxCell id="1Di375NGL0yQk-hCG-On-2" value="&lt;h1&gt;&lt;font color=&quot;#ff9933&quot;&gt;CV, Image Classification, HPE, HAR&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ff9933&quot;&gt;Todo sobre visión por computadora, Clasificación de imágenes, estimación de postura humana y Reconocimiento de acción humana&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="100" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-3" value="&lt;font color=&quot;#00994d&quot;&gt;Elaborado por: German Gutierrez Machicado&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="77.25" y="71" width="270" height="30" as="geometry" />
@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-85" value="Categories of ACTION CLASIFICATION (AC) MODELS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Di375NGL0yQk-hCG-On-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="1Di375NGL0yQk-hCG-On-91" target="1Di375NGL0yQk-hCG-On-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -711,13 +711,13 @@
           <mxGeometry x="2084.14" y="1141.5" width="359" height="498.5" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-135" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;comic=0;fillStyle=zigzag-line;fontSize=12;fontColor=#006633;fillColor=#00FF00;opacity=70;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="1210" width="28" height="100" as="geometry" />
+          <mxGeometry x="2050" y="1210" width="28" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-136" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;comic=0;fillStyle=zigzag-line;fontSize=12;fontColor=#006633;fillColor=#00FF00;opacity=70;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="2050" y="1320" width="31.89" height="180" as="geometry" />
+          <mxGeometry x="2050" y="1300" width="31.89" height="200" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-137" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;comic=0;fillStyle=zigzag-line;fontSize=12;fontColor=#006633;fillColor=#00FF00;opacity=70;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="2055.39" y="1520" width="20" height="80" as="geometry" />
+          <mxGeometry x="2058" y="1510" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-140" value="&lt;b&gt;1er Grupo (paso).&lt;/b&gt; Tiene que ver con la obtención de la información" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="1950" y="1220" width="95.07" height="70" as="geometry" />
@@ -1424,7 +1424,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-37" value="Action Detection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="472.25" y="2725" width="120" height="30" as="geometry" />
+          <mxGeometry x="477.5" y="2723.75" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-38" value="Para la tarea de clasificación de acción solo necesitamos estimar la etiqueta de &lt;b&gt;categoría&lt;/b&gt;&amp;nbsp;para el video dado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="182.75" y="2640" width="239.5" height="50" as="geometry" />
