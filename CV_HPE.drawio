@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T23:42:48.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5z74Ikz2OcDJ-drxGtMk" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T19:46:47.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nXu3amns8odAn58966ZS" version="21.0.4" type="github">
   <diagram id="XKYyDF1kEyhhGhjMbOKg" name="Página-1">
-    <mxGraphModel dx="1877" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -904,17 +904,17 @@
         <mxCell id="NaYk2sYJoLIuDsDVE16P-207" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-128.png;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;fillColor=default;opacity=70;imageBorder=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="183.5" y="3331" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-208" value="CLASIFICACÍON" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="3228" width="110" height="30" as="geometry" />
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-208" value="CLASIFICACÍON DE IMÁGENES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="28.75" y="3230" width="187.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-209" value="CLASIFICACÍON + LOCALIZACÍON" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="254.75" y="3228" width="210" height="30" as="geometry" />
+          <mxGeometry x="254.75" y="3230" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-210" value="gato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="17.5" y="3063" width="60" height="30" as="geometry" />
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-210" value="clase: gato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="17.5" y="3063" width="72.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-211" value="gato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="3063" width="60" height="30" as="geometry" />
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-211" value="clase: gato" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="3063" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-212" value="DETECCIÓN DE OBJETOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="12.5" y="3455" width="210" height="30" as="geometry" />
@@ -928,14 +928,14 @@
         <mxCell id="NaYk2sYJoLIuDsDVE16P-215" value="pájaro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="173.5" y="3310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-223" value="SEGMENTACIÓN&lt;br&gt;(contorno del objeto)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-223" value="SEGMENTACIÓN DE OBJETOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="262.25" y="3455" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-224" value="Un solo objeto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="-92.5" y="3138" width="95" height="30" as="geometry" />
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-224" value="&lt;b&gt;Un solo objeto&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="-72" y="3140" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NaYk2sYJoLIuDsDVE16P-225" value="Multiples objetos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="-95" y="3355" width="95" height="30" as="geometry" />
+        <mxCell id="NaYk2sYJoLIuDsDVE16P-225" value="&lt;b&gt;Múltiples objetos&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
+          <mxGeometry x="-72" y="3350" width="72.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NaYk2sYJoLIuDsDVE16P-226" value="&lt;ul&gt;&lt;li&gt;RGB-based Action Clasification&lt;/li&gt;&lt;li&gt;RGB + Pose Action Clasification&lt;/li&gt;&lt;li&gt;Two-stream (RGB + flow) Action Clasification&lt;/li&gt;&lt;li&gt;Pose/Skeleton Based Action Classification&lt;/li&gt;&lt;li&gt;Thre-stream (RGB + flow + Pose) Based Action Classification&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;comic=0;fillStyle=auto;fontSize=12;fontColor=#000000;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="970" y="300" width="240" height="170" as="geometry" />
@@ -1381,28 +1381,28 @@
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.563;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JCYRhoDxQAMM_E8D8s3l-23" target="JCYRhoDxQAMM_E8D8s3l-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCYRhoDxQAMM_E8D8s3l-23" value="OBJECT RECOGNITION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JCYRhoDxQAMM_E8D8s3l-23" value="RECONOCIMIENTO DE OBJETOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-112.75" y="2800" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JCYRhoDxQAMM_E8D8s3l-24" target="JCYRhoDxQAMM_E8D8s3l-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCYRhoDxQAMM_E8D8s3l-24" value="IMAGE CLASSIFICATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JCYRhoDxQAMM_E8D8s3l-24" value="CLASIFICACIÓN DE IMÁGENES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-184" y="2870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.411;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JCYRhoDxQAMM_E8D8s3l-25" target="JCYRhoDxQAMM_E8D8s3l-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCYRhoDxQAMM_E8D8s3l-25" value="OBJECT LOCALIZATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JCYRhoDxQAMM_E8D8s3l-25" value="LOCALIZACIÓN DE OBJETOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-35.75" y="2875" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JCYRhoDxQAMM_E8D8s3l-26" target="JCYRhoDxQAMM_E8D8s3l-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JCYRhoDxQAMM_E8D8s3l-26" value="OBJECT DETECTION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JCYRhoDxQAMM_E8D8s3l-26" value="DETECCIÓN DE OBJETOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-24" y="2950" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JCYRhoDxQAMM_E8D8s3l-27" value="OBJECT SEGMENTATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JCYRhoDxQAMM_E8D8s3l-27" value="SEGMENTACIÓN DE OBJETOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-24" y="3010" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JCYRhoDxQAMM_E8D8s3l-33" value="[https://machinelearningmastery.com/object-recognition-with-deep-learning/]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
